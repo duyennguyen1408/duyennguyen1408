@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="35%"/>
 </div>
 
 <div id="badges" align="center">
@@ -28,11 +28,11 @@
 <hr/>
 
 <div id="about-me">
-  <p>
+  <h3>
     👩🏻‍💻 I'm Quynh Duyen 📍 now living in Ho Chi Minh City, Viet Nam. ✍ I'm currently a third-year student of 
       <a href="https://www.uit.edu.vn/">University of Information Technology</a>
     and my major is Computer Science 💻. I'm a passionate learner who's always willing to study new things. I enjoy exploring new technologies and knowledge 📖. I'm       not afraid of difficulties and have excitement in solving many challenging problems of any app or program. I'm currently into Front-end Development and I hope I will become a successful Front-end Developer in the near future 🌱.
-  </p
+  </h3>
 </div>
 
 <hr/>
