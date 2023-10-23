@@ -29,7 +29,7 @@
 
 <div id="about-me">
   <h3>
-    👩🏻‍💻 I'm Quynh Duyen 📍 now living in Ho Chi Minh City, Viet Nam. ✍ I'm currently a third-year student of 
+    👩🏻‍💻 I'm Quynh Duyen 📍 now living in Ho Chi Minh City, Viet Nam. ✍ I'm a third-year student of 
       <a href="https://www.uit.edu.vn/">University of Information Technology</a>
     and my major is Computer Science 💻. I'm a passionate learner who's always willing to study new things. I enjoy exploring new technologies and knowledge 📖. I'm       not afraid of difficulties and have excitement in solving many challenging problems of any app or program. I'm currently into Front-end Development and I hope I will become a successful Front-end Developer in the near future 🌱.
   </h3>
