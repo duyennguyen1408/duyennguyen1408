@@ -29,7 +29,7 @@
 
 <div id="about-me">
   <p>
-    👩🏻‍💻 I'm Quynh Duyen 📍 now living in Ho Chi Minh city, Viet Nam. ✍ I'm currently a third-year student of 
+    👩🏻‍💻 I'm Quynh Duyen 📍 now living in Ho Chi Minh City, Viet Nam. ✍ I'm currently a third-year student of 
       <a href="https://www.uit.edu.vn/">University of Information Technology</a>
     and my major is Computer Science 💻. I'm a passionate learner who's always willing to study new things. I enjoy exploring new technologies and knowledge 📖. I'm       not afraid of difficulties and have excitement in solving many challenging problems of any app or program. I'm currently into Front-end Development and I hope I will become a successful Front-end Developer in the near future 🌱.
   </p
@@ -39,18 +39,18 @@
 
 ### 🛠️: Languages and Tools :
 <div id="skills" align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  <img src="https://img.icons8.com/external-creatype-filed-outline-colourcreatype/64/external-document-file-extension-web-format-file-creatype-filed-outline-colourcreatype-8.png"  width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://img.icons8.com/fluency/48/nextjs.png" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/tailwindcss.png" width="40" height="40" />
-  <img src="https://img.icons8.com/fluency/48/vite.png" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="48" height="48"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="48" height="48"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="48" height="48"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="48" height="48"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="48" height="48"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="48" height="48"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="48" height="48"/>
+  <img src="https://img.icons8.com/external-creatype-filed-outline-colourcreatype/64/external-document-file-extension-web-format-file-creatype-filed-outline-colourcreatype-8.png"  width="48" height="48"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="48" height="48"/>&nbsp;
+  <img src="https://img.icons8.com/fluency/48/nextjs.png" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/tailwindcss.png" width="48" height="48" />
+  <img src="https://img.icons8.com/fluency/48/vite.png" width="48" height="48"/>
 </div>
 
 
